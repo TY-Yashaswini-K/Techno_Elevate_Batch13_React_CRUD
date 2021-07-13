@@ -1,0 +1,22 @@
+#navbar{
+  
+    color: black;
+  
+     font-family: none;
+     
+    background: rgb(255, 250, 250);
+    font-size: 20px;
+    
+  }
+  #navname{
+    font-size: 40px;
+  }
+  .nav-item:hover
+  {
+    color: green;
+    text-decoration: underline;
+    box-shadow: 2px 3px 30px grey;
+  }
+  .nav{
+    background-color: blue;
+  }
